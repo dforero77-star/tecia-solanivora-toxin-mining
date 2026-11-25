@@ -10,7 +10,7 @@ This repository contains the custom Python scripts and reproducible data-process
 
 > **Forero Torres, D. F. (2026).** *In Silico Genome Mining and Structural Characterization of Novel Putative Entomopathogenic Toxins from Enterobacter ludwigii, Rahnella variigena, and Serratia quinivorans for the Biocontrol of Tecia solanivora.* Submitted to *Current Microbiology* (Springer Nature).
 
-The workflow extracts hypothetical open reading frames (ORFs) from bacterial RefSeq proteomes (*Enterobacter ludwigii* `GCF_001750725.1`, *Rahnella variigena* `GCF_003610915.1`, and *Serratia quinivorans* `GCA_900638135.1`), formats sequences for phylogenetic inference, and generates structured supplementary datasets (`Table S1` through `Table S4`).
+The workflow screens uncharacterized hypothetical proteomes ($N = 721$) from three enterobacterial reference genomes (*Enterobacter ludwigii* `GCF_001750725.1`, *Rahnella variigena* `GCF_003610915.1`, and *Serratia quinivorans* `GCA_900638135.1`) to identify non-canonical pore-forming toxins and chitin-degrading virulence factors.
 
 ---
 
